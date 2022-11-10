@@ -1,7 +1,7 @@
 
 # Klipper config:
 
-rotation_distance: 22 
+rotation_distance: 22  (Tune it with a 200mm extrusion test)
 gear_ratio: 50:10  (For 10th motor gear)
 
 gear_ratio: 50:8   (For 8th motor gear)
