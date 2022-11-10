@@ -1,5 +1,5 @@
 
-Klipper config:
+# Klipper config:
 
 rotation_distance: 22 
 gear_ratio: 50:10  (For 10th motor gear)
