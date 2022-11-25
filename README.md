@@ -18,7 +18,9 @@ A light compact extruder that was firstly designed by MirageC. It was adapated a
   
   Video and explanation of the Vz-HextrudORT: [![Vz-HextrudORT](https://user-images.githubusercontent.com/37383368/201144865-ccc4b27c-deec-47d1-8330-f1f9d902c095.jpg)](https://youtu.be/hrsglQeEtMQ?t=952)
 
-This project is licensed as
+The 3d printed vesion project is licensed as
 ![image](https://user-images.githubusercontent.com/37383368/139769027-7267da5b-7f58-499d-96bc-e41d164a3aac.png)
 
 https://creativecommons.org/licenses/by-nc/4.0/
+
+The CNC version is not opensource for now
