@@ -12,8 +12,13 @@ You will also need a piece of a PTFE tube between the extruder and the hotend. T
 - It is important to have the main shaft/gear parallel to the idler and to the main body. There is a tiny bit of play/tolerance in the front cover and back plate assembly that can cause wobbling issue if not align properly. To align it properly follow these steps:
 
 1-Make sure tension is on the tension arm
+
 2-Loosen the 2 motor bolts
+
 3-Insert filament in the extruder and make sure the filament is loaded up all the way to the grub gears.
+
 4-Loosen the 2 front cover bolts and the 3rd lower right front bolt 
+
 5-Tighten all 3 bolts
+
 6-Adjust motor position so there is not too much pressure on the POM gear and tighten the 2 bolts. (Having the motor pinion gear too tight on the POM gear can cause issue.)
