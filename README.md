@@ -12,7 +12,7 @@ A light compact extruder that was firstly designed by MirageC. It was adapated a
  
  (The printed version also has the possibility to have the motor at higher position to fit on the EVA 2.3-2.4 printhead)
   
-  -One CNC version with CNC gears. Those news are not retro-compatible with BMG
+  -One CNC version with CNC gears. Those news are not retro-compatible with BMG. Can work with 8th or 10th nema14 round motor.
   
   (The CNC version is smaller in Y direction, allowing more space available in the back on the VzBoT Vz-Printhead. More space to mount a motor cooler or a toolhead CANbus board etc.)
   
