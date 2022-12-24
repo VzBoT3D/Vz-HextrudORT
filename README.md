@@ -1,4 +1,4 @@
-Buy the CNC version here: https://s.click.aliexpress.com/e/_DDbGIjN
+Buy the CNC version here: (https://s.click.aliexpress.com/e/_DlvB4W3)
 
 ![11](https://user-images.githubusercontent.com/37383368/201133489-b86d6f49-1575-4a2f-8bdd-9bdfebf09e1a.jpg)
 
