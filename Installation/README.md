@@ -22,3 +22,9 @@ You will also need a piece of a PTFE tube between the extruder and the hotend. T
 5-Tighten all 3 bolts
 
 6-Adjust motor position so there is not too much pressure on the POM gear and tighten the 2 bolts. (Having the motor pinion gear too tight on the POM gear can cause issue.)
+
+# PTFE tube retainer:
+
+- If you wish to add a retaning push fit connector. You can print the adpter fround in the STL folder. There are 2 versions. One for Moon motors, and one for LDO motors.
+<img width="688" alt="image" src="https://user-images.githubusercontent.com/37383368/209605890-b0a13c7c-f22c-4c7e-b018-bfcebc3aeefa.png">
+
