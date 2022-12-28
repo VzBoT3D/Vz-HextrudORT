@@ -25,6 +25,6 @@ You will also need a piece of a PTFE tube between the extruder and the hotend. T
 
 # PTFE tube retainer:
 
-- If you wish to add a retaning push fit connector. You can print the adpter fround in the STL folder. There are 2 versions. One for Moon motors, and one for LDO motors.
+- If you wish to add a retaning push fit connector. You can print the adpter fround in the STL folder. There are 2 versions. One for Moon motors, and one for LDO motors. You will need a longer M3 bolts for the motor and a M3 nut
 <img width="688" alt="image" src="https://user-images.githubusercontent.com/37383368/209605890-b0a13c7c-f22c-4c7e-b018-bfcebc3aeefa.png">
 
