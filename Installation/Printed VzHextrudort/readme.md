@@ -2,3 +2,4 @@ All versions of the Vz-HextrudORT have the same bolting pattern. They mount can 
 
 You will also need a piece of a PTFE tube between the extruder and the hotend. The lenght vary depending on the extruder and the mounting option.
 
+<img width="1301" alt="image" src="https://github.com/VzBoT3D/Vz-HextrudORT/blob/4a558cbd57b12f61fe653494cda5fb71b9726089/Installation/Printed%20VzHextrudort/VZHextrudort%20Assembly.png">
