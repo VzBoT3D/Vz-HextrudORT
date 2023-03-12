@@ -31,3 +31,4 @@ You will also need a piece of a PTFE tube between the extruder and the hotend. T
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------              | -----  | -----	|
 | 1       | Push fit connector  | ![push fit connector](https://user-images.githubusercontent.com/37383368/146020643-7de56373-1956-430e-af35-fa52e62a8844.PNG)   |     | https://s.click.aliexpress.com/e/_AoAejk |
+| 1       | LDO Nema 14 17-20mm |                                                                                                                                |     | https://s.click.aliexpress.com/e/_Dcwpt5T|
