@@ -1,4 +1,5 @@
-Buy the CNC version here: (https://s.click.aliexpress.com/e/_DlvB4W3)
+Buy the STD CNC version here: (https://s.click.aliexpress.com/e/_DlvB4W3)
+Buy the PLUS CNC version here: (https://s.click.aliexpress.com/e/_DdyRhHl)
 
 ![11](https://user-images.githubusercontent.com/37383368/201133489-b86d6f49-1575-4a2f-8bdd-9bdfebf09e1a.jpg)
 
@@ -6,14 +7,16 @@ Buy the CNC version here: (https://s.click.aliexpress.com/e/_DlvB4W3)
 
 A light compact extruder that was firstly designed by MirageC. It was adapated and modified for easier printability and lower center of gravity to fit the VzBoT. 
 
-## There 3 versions of the extruder. 
+## There 4 versions of the extruder. 
   -One printed with normal BMG type of gears
   
   -One printed with Helical grub screw gears and the rest of BMG gears
  
  (The printed version also has the possibility to have the motor at higher position to fit on the EVA 2.3-2.4 printhead)
   
-  -One CNC version with CNC gears. Those news are not retro-compatible with BMG. Can work with 8th or 10th nema14 round motor.
+  -One standard CNC version with CNC gears. Those news are not retro-compatible with BMG. Can work with 8th or 10th nema14 round motor.
+
+  -One PLUS CNC version with bigger CNC gears.
   
   (The CNC version is smaller in Y direction, allowing more space available in the back on the VzBoT Vz-Printhead. More space to mount a motor cooler or a toolhead CANbus board etc.)
   
